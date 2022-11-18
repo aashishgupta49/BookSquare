@@ -3,7 +3,8 @@ import React, { useState, useEffect } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import Image from 'next/image';
 import mypic from '../public/logoFinal1.png';
-
+import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
+import { useWallet } from "@solana/wallet-adapter-react";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const [color, setColor] = useState('transparent');
@@ -63,7 +64,7 @@ const Navbar = () => {
           <li className='p-4'>
             <Link href='/contact'>Contact</Link>
           </li>
-          
+          <WalletMultiButton className="cta-button connect-wallet-button" />
         </ul>
 
         {/* Mobile Button */}
