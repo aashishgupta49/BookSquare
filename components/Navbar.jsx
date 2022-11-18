@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import Image from 'next/image';
-import mypic from '../public/logoNew.png';
+import mypic from '../public/logoFinal1.png';
 
 const Navbar = () => {
   const [nav, setNav] = useState(false);
@@ -18,8 +18,8 @@ const Navbar = () => {
       <Image
         src={mypic}
 
-        width="100px"
-        height="100px"
+        width="215px"
+        height="70px"
       />
     ) 
   }
@@ -42,10 +42,13 @@ const Navbar = () => {
       style={{ backgroundColor: `${color}` }}
       className='fixed left-0 top-0 w-full z-10 ease-in duration-300'
     >
-      <div className='max-w-[1240px] m-auto flex justify-between items-center p-4 text-white'>
-        
-        <Link href='/'>
+      <div className='max-w-[1240px]  flex justify-between items-center p-3 text-white'>
         <MyImage/>
+        <Link href='/'>
+             
+          <h1 style={{ color: `${textColor}` }} className='font-bold text-4xl'>
+            
+          </h1>
         </Link>
         <ul style={{ color: `${textColor}` }} className='hidden sm:flex'>
           <li className='p-4'>
