@@ -1,57 +1,139 @@
 [
   {
     "id": 1,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "Pride and Prejudice",
+    "price": "0.15",
+    "description": "Austen's finest comedy of manners portrays life in the genteel rural society of the early 1800s, and tells of the initial misunderstandings (and mutual enlightenment) between lively and quick witted Elizabeth Bennet and the haughty Mr. Darcy.",
+    "image_url": "../../rom/Pride-and-Prejudice-1-1.png",
+    "filename": "Pride-and-Prejudice.pdf",
+    "hash": "QmReepmXxvhXNR8gktEjHeZKrAHBQnywf59bRXVY92Ps2u"
   },
   {
     "id": 2,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "Healing Her Heart",
+    "price": "0.17",
+    "description": "Dr. Gabe Allen has a rule about dating colleagues but when he meets ER nurse Larissa Brockman he's tempted to break his vow. Larissa's faith draws him back to the church he'd left behind, but when their lives are on the line Gabe discovers that Larissa is the one who needs to learn about the true meaning of forgiveness. And only Gabe can help heal her heart.",
+    "image_url": "../../rom/Healing-Her-Heart-1-1.png",
+    "filename": "Healing-Her-Heart.pdf",
+    "hash": "QmZbbGbm6PX9hvDSviNv8w8LTou1KJXVGqhncuU5kEcT1a"
   },
   {
     "id": 3,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "Don Quixote",
+    "price": "0.21",
+    "description": "One of the earliest novels in a modern European language, one which many people consider the finest book in the Spanish language.",
+    "image_url": "../../rom/Don-Quixote-1-1.png",
+    "filename": "Don-Quixote.pdf ",
+    "hash": "QmejBKap7UfZDvV9jYxmLa4vxDHr6LkTqvTzGgWDpbqUYw"
   },
   {
     "id": 4,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "The After House",
+    "price": "0.23",
+    "description": "An astonishing story of love and mystery, which equals if not surpasses in interest those other lively stories of Mrs. Rinehart's. The novel is one of the sprightliest of the season and will add to the author's reputation as an inventor of 'queer' plots.",
+    "image_url": "../../rom/The-After-House-1-1.png",
+    "filename": "The-After-House.pdf",
+    "hash": "QmQg8hdYwe4kbXoSewufyMgnAZaX4395ZXJsXDsWAsVxUg"
   },
   {
     "id": 5,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "Le-Morte-D'Arthur-vol-1",
+    "price": "0.25",
+    "description": "Set on unravelling the mystery, Gerald begins a relentless pursuit, hunting down every possible clue - much to the indignation of Mademoiselle. When her life proves to be in danger from the villainous émigré Valade, Gerald has his work cut out. For Mademoiselle Melusine, engaged in a desperate battle to prove her true identity, believes she is well able to take care of herself and is determined not to be rescued.",
+    "image_url": "../../rom/Le-Morte-D'Arthur-vol-1-1-1.png",
+    "filename": "Le-Morte-D'Arthur-vol-1.pdf ",
+    "hash": "Qmc4YHKmDem5KkUeDcjLysNSqY8euvdgeRsHUMLHxSvUR4"
   },
   {
     "id": 6,
-    "name": "OG Emoji pack",
-    "price": "0.09",
-    "description": "Get this fire emoji pack for only $0.09! Includes 3 hot emojis: Forreal, Flooshed, and Sheesh!",
-    "image_url": "https://i.imgur.com/rVD8bjt.png",
-    "filename": "TheKarbala.pdf",
-    "hash": "QmX6euncVAkg8aAUYvgrhVV6sDr99onD7P4iTCLqToE6iY"
+    "name": "20,000 Leagues Under the Sea",
+    "price": "0.27",
+    "description": "Sent to investigate mysterious encounters that are disrupting international shipping, Professor Aronnax, his servant Conseil, and disgruntled harpooner Ned Land are captured when their frigate is sunk during an encounter with the monster. The submarine Nautilus and its eccentric Captain Nemo afford the professor and his companions endless fascination and danger as they're swept along on a yearlong undersea voyage",
+    "image_url": "../../sci/20000-Leagues-Under-the-Sea-1-1.png",
+    "filename": "20000-Leagues-Under-the-Sea.pdf ",
+    "hash": "QmTZ3fokSG3Gckmnhu7f86FFViVjVP4fAqhj7vaC12ztuP"
+  },
+  {
+    "id": 7,
+    "name": "After the Cure",
+    "price": "0.28",
+    "description": "Eight years ago the December Plague swept through the human population of earth. The Infected were driven mad by the disease, becoming violent and cannibalistic, killing even those closest to them without hesitation.",
+    "image_url": "../../sci/After-the-Cure-1-1.png",
+    "filename": "After-the-Cure.pdf",
+    "hash": "QmW68yw2a8WwbPhv9XJhds4ZRqUYw1sBVC3ojX1j2xKTWC"
+  },
+  {
+    "id": 8,
+    "name": "A Princess of Mars",
+    "price": "0.29",
+    "description": "Forty-three million miles from the earth--a succession of the weirdestand most astounding adventures in fiction. John Carter, American, findshimself on the planet Mars, battling for a beautiful woman, with theGreen Men of Mars, terrible creatures fifteen feet high, mounted onhorses like dragons",
+    "image_url": "../../sci/A-Princess-of-Mars-1-1.png",
+    "filename": "A-Princess-of-Mars.pdf ",
+    "hash": "QmRv43TzucS5xYRvmUomxB6m3HthHKm4RKBtHxNpDDv6jN"
+  },
+  {
+    "id": 9,
+    "name": "Blindsight",
+    "price": "0.30",
+    "description":"Who do you send to meet the alien when the alien doesn't want to meet?",
+    "image_url": "../../sci/A-Princess-of-Mars-1-1.png",
+    "filename": "Blindsight.pdf ",
+    "hash": "QmdFaCrmi8WqHQWc9GR1qS2dPPn6rk6jTj1mtMAWAnQwn4"
+  },
+  {
+    "id": 10,
+    "name": "A-Study-In-Scarlet ",
+    "price": "0.31",
+    "description":"The first story to feature Sherlock Holmes, wherein the detective resolves to solve the mystery of a corpse found at a derelict house with the word RACHE scrawled in blood on the wall beside the body. A story of lost love, revenge, and mystery!",
+    "image_url": "../../mys/A-Study-In-Scarlet-1-1.png",
+    "filename": "A-Study-In-Scarlet.pdf ",
+    "hash": "QmcWwLKDubnC3vVLZGcnFkELL86LHCnTPzFtugz5T3b7PY"
+  },
+  {
+    "id": 11,
+    "name": "Crime and Punishment",
+    "price": "0.32",
+    "description":"From the Russian master of psychological characterizations, this novel portrays the carefully planned murder of a miserly, aged pawnbroker by a destitute Saint Petersburg student named Raskolnikov, followed by the emotional, mental, and physical effects of that action. Translated by Constance Garnett.",
+    "image_url": "../../mys/Crime-and-Punishment--1-1.png",
+    "filename": "Crime-and-Punishment-.pdf ",
+    "hash": "QmbhgszXbiJu6qxzqvVqPgryVsYtrUq4xwymWLLufzM8r5"
+  },
+  {
+    "id": 12,
+    "name": "Crime and Punishment",
+    "price": "0.32",
+    "description":"From the Russian master of psychological characterizations, this novel portrays the carefully planned murder of a miserly, aged pawnbroker by a destitute Saint Petersburg student named Raskolnikov, followed by the emotional, mental, and physical effects of that action. Translated by Constance Garnett.",
+    "image_url": "../../mys/Crime-and-Punishment--1-1.png",
+    "filename": "The-Adventures-of-Sherlock-Holmes.pdf",
+    "hash": "QmeYHDuTwRNRgEThQ5sdg5LsmJGno3sY2ydewFey6sbgbN"
+  },
+  {
+    "id": 13,
+    "name": "The Hound of the Baskervilles",
+    "price": "0.32",
+    "description":"This may be the most popular of all of the Sherlock Holmes stories. Inspired by regional mythology of the British Isles concerning hell-hounds, the tale tells of detective Sherlock Holmes and his assistant Dr. Watson as they are called to investigate an alleged curse upon the house of the Baskervilles.",
+    "image_url": "../../mys/The-Hound-of-the-Baskervilles-1-1.png",
+    "filename": "The-Hound-of-the-Baskervilles.pdf",
+    "hash": "QmcKdgnHRFJt4hWYK8NzDQnjQUJCRmKyUB9sf2uiBfB8eD"
+  },
+  {
+    "id": 14,
+    "name": "The Hound of the Baskervilles",
+    "price": "0.32",
+    "description":"This may be the most popular of all of the Sherlock Holmes stories. Inspired by regional mythology of the British Isles concerning hell-hounds, the tale tells of detective Sherlock Holmes and his assistant Dr. Watson as they are called to investigate an alleged curse upon the house of the Baskervilles.",
+    "image_url": "../../mys/The-Hound-of-the-Baskervilles-1-1.png",
+    "filename": "The-Hound-of-the-Baskervilles.pdf",
+    "hash": "QmcKdgnHRFJt4hWYK8NzDQnjQUJCRmKyUB9sf2uiBfB8eD"
+  },
+  {
+    "id": 15,
+    "name": "The Hound of the Baskervilles",
+    "price": "0.32",
+    "description":"This may be the most popular of all of the Sherlock Holmes stories. Inspired by regional mythology of the British Isles concerning hell-hounds, the tale tells of detective Sherlock Holmes and his assistant Dr. Watson as they are called to investigate an alleged curse upon the house of the Baskervilles.",
+    "image_url": "../../mys/The-Hound-of-the-Baskervilles-1-1.png",
+    "filename": "The-Hound-of-the-Baskervilles.pdf",
+    "hash": "QmcKdgnHRFJt4hWYK8NzDQnjQUJCRmKyUB9sf2uiBfB8eD"
   }
+
 
 ]
