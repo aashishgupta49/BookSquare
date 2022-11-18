@@ -2,8 +2,10 @@ import Image from 'next/image';
 import React from 'react';
 import { FaInstagram } from 'react-icons/fa';
 
+
 const InstagramImg = ({ socialImg }) => {
   return (
+    <>
     <div className='relative'>
       <Image
         src={socialImg}
@@ -16,8 +18,14 @@ const InstagramImg = ({ socialImg }) => {
       <p className='text-gray-300 hidden group-hover:block'>
         <FaInstagram size={30} className='z-10' />
       </p>
+
+      
+
       </div>
+      
     </div>
+    
+    </>
   );
 };
 

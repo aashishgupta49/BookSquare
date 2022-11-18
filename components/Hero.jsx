@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 
+
 const Hero = ({heading, message}) => {
   return (
     <div className='flex items-center justify-center h-screen mb-12 bg-fixed bg-center bg-cover custom-img'>
@@ -11,11 +12,17 @@ const Hero = ({heading, message}) => {
         <p className='py-5 text-xl'>{message}</p>
        
          
-        <button className='px-8 py-2 border'>
+        {/* <button className=''> */}
+        <button class="btn-17 px-8 py-2 border">
+          <span class="text-container">
+            <span class="text">
         <Link href='/books_price'>
           Book
         </Link>
-          </button>
+        </span>
+          </span>
+        </button>
+          
       </div>
     </div>
   );

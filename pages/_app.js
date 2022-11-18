@@ -1,5 +1,6 @@
 import Navbar from '../components/Navbar';
 import '../styles/globals.css';
+import '../components/hero_btn.css';
 
 import React, { useMemo } from "react";
 import { WalletAdapterNetwork } from "@solana/wallet-adapter-base";

@@ -7,9 +7,12 @@ import IgImg5 from '../public/ig-img-5.jpeg';
 import IgImg6 from '../public/ig-img-6.jpeg';
 import InstagramImg from './InstagramImg';
 
+import Footer from './footer';
+
 
 const Instagram = () => {
   return (
+    <>
     <div className='max-w-[1240px] mx-auto text-center py-24'>
         <p className='text-2xl font-bold'>Follow me on Instagram</p>
         <p className='pb-4'>@Captur</p>
@@ -22,6 +25,8 @@ const Instagram = () => {
             <InstagramImg socialImg={IgImg6} />
         </div>
     </div>
+    <Footer/>
+    </>
   )
 }
 

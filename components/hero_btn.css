@@ -10,7 +10,7 @@
 .btn-17 {
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: button;
-  background-color: #000;
+  background-color: rgb(52, 52, 52);
   background-image: none;
   color: #fff;
   cursor: pointer;
