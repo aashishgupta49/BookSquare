@@ -36,7 +36,7 @@ const createTransaction = async (req, res) => {
 
     const network = WalletAdapterNetwork.Devnet;
     const endpoint = clusterApiUrl(network);
-    const connection = new Connection(endpoint);
+    const connection = new Connection("https://yolo-cold-spree.solana-devnet.discover.quiknode.pro/5387fc42bfa6bf62d44a1f5399dde06ed96522a6/");
 
     const buyerUsdcAddress = await getAssociatedTokenAddress(usdcAddress, buyerPublicKey);
     const shopUsdcAddress = await getAssociatedTokenAddress(usdcAddress, sellerPublicKey);
