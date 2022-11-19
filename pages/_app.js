@@ -18,6 +18,7 @@ import { clusterApiUrl } from "@solana/web3.js";
 
 import "@solana/wallet-adapter-react-ui/styles.css";
 import "../styles/globals.css";
+import "../styles/App.css";
 
 function MyApp({ Component, pageProps }) {
   const network = WalletAdapterNetwork.Devnet;
