@@ -1,5 +1,18 @@
 import React from 'react';
 import { MDBFooter, MDBContainer, MDBRow, MDBCol, MDBIcon } from 'mdb-react-ui-kit';
+import Image from 'next/Image';
+import mypic from '../public/logoM.png';
+
+const MyImage = (props) => {
+  return (
+    <Image
+      src={mypic}
+
+      width="210px"
+      height="70px"
+    />
+  ) 
+}
 
 export default function footer() {
   return (
@@ -14,13 +27,15 @@ export default function footer() {
 
 <footer class="footer">
   <div class="footer__addr">
-    <h1 class="footer__logo">Something</h1>
+    <h1 class="footer__logo">
+      <MyImage/>
+    </h1>
         
-    <h2>Contact</h2>
+    <h2 class="head">Contact</h2>
     
     <address>
-      5534 Somewhere In. The World 22193-10212<br/>
-          
+      <br/>
+      Please E-Mail us. We will contact you very soon.
       <a class="footer__btn" href="mailto:example@gmail.com">Email Us</a>
     </address>
   </div>
@@ -45,32 +60,32 @@ export default function footer() {
     </li>
     
     <li class="nav__item nav__item--extra">
-      <h2 class="nav__title">Technology</h2>
+      <h2 class="nav__title">Team</h2>
       
       <ul class="nav__ul nav__ul--extra">
         <li>
-          <a href="#">Hardware Design</a>
+          <a href="#">Aashish Gupta</a>
         </li>
         
         <li>
-          <a href="#">Software Design</a>
+          <a href="#">Armaan Ansari</a>
         </li>
         
         <li>
-          <a href="#">Digital Signage</a>
+          <a href="#">Sion Chowdhary</a>
         </li>
         
-        <li>
+        {/* <li>
           <a href="#">Automation</a>
-        </li>
+        </li> */}
         
-        <li>
+        {/* <li>
           <a href="#">Artificial Intelligence</a>
-        </li>
+        </li> */}
         
-        <li>
+        {/* <li>
           <a href="#">IoT</a>
-        </li>
+        </li> */}
       </ul>
     </li>
     
@@ -94,10 +109,10 @@ export default function footer() {
   </ul>
   
   <div class="legal">
-    <p>&copy; 2019 Something. All rights reserved.</p>
+    <p>&copy; 2022 BookSqre. All rights reserved.</p>
     
     <div class="legal__links">
-      <span>Made with <span class="heart">♥</span> remotely from Anywhere</span>
+      <span>Made with <span class="heart"> ♥ </span>by Team Kodlars</span>
     </div>
   </div>
 </footer>
