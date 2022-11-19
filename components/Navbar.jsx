@@ -2,7 +2,7 @@ import Link from 'next/link';
 import React, { useState, useEffect } from 'react';
 import { AiOutlineMenu, AiOutlineClose } from 'react-icons/ai';
 import Image from 'next/image';
-import mypic from '../public/logoFinal1.png';
+import mypic from '../public/logoM.png';
 import { WalletMultiButton } from "@solana/wallet-adapter-react-ui";
 import { useWallet } from "@solana/wallet-adapter-react";
 const Navbar = () => {
@@ -19,7 +19,7 @@ const Navbar = () => {
       <Image
         src={mypic}
 
-        width="215px"
+        width="210px"
         height="70px"
       />
     ) 
