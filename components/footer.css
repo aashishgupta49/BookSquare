@@ -21,8 +21,8 @@
     display: flex;
     flex-flow: row wrap;
     padding: 30px 30px 20px 30px;
-    color: #2f2f2f;
-    background-color: #fff;
+    color: white;
+    background-color:black;
     border-top: 1px solid #e5e5e5;
   }
   
@@ -64,9 +64,9 @@
     justify-content: center;
     height: 36px;
     max-width: max-content;
-    background-color: rgb(33, 33, 33, 0.07);
+    background-color: white;
     border-radius: 100px;
-    color: #2f2f2f;
+    color:black;
     line-height: 0;
     margin: 0.6em 0;
     font-size: 1rem;
@@ -101,7 +101,7 @@
   }
   
   .nav__ul--extra {
-    column-count: 2;
+    column-count: 1;
     column-gap: 1.25em;
   }
   
