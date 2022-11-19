@@ -2,13 +2,13 @@ import React from "react";
 import styles from "../styles/Product.module.css";
 import IPFSDownload from './IpfsDownload';
 import Buy from "./Buy";
-export default function Product({ produc9t }) {
+export default function Product({ product }) {
   const { id, name, price, description, image_url } = product;
 
   return (
     <div className={styles.product_container}>
       <div >
-        <img className={styles.product_image}src={image_url} alt={name} />
+        <img className={styles.product_image} src={image_url} alt={name} />
       </div>
 
       <div className={styles.product_details}>
