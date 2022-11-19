@@ -6,6 +6,7 @@ import IgImg4 from '../public/best_selling/d.png';
 import IgImg5 from '../public/best_selling/e.png';
 import IgImg6 from '../public/best_selling/f.png';
 import InstagramImg from './InstagramImg';
+import Footer from './footer';
 
 
 const Instagram = () => {
@@ -21,7 +22,9 @@ const Instagram = () => {
             <InstagramImg socialImg={IgImg5} />
             <InstagramImg socialImg={IgImg6} />
         </div>
+        
     </div>
+    <Footer/>
     </>
   )
 }
