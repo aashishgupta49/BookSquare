@@ -100,12 +100,12 @@
   },
   {
     "id": 12,
-    "name": "Crime and Punishment",
-    "price": "0.32",
-    "description":"From the Russian master of psychological characterizations, this novel portrays the carefully planned murder of a miserly, aged pawnbroker by a destitute Saint Petersburg student named Raskolnikov, followed by the emotional, mental, and physical effects of that action. Translated by Constance Garnett.",
-    "image_url": "../../mys/Crime-and-Punishment--1-1.png",
-    "filename": "The-Adventures-of-Sherlock-Holmes.pdf",
-    "hash": "QmeYHDuTwRNRgEThQ5sdg5LsmJGno3sY2ydewFey6sbgbN"
+    "name": "Dracula",
+    "price": "0.37",
+    "description":"The world's best-known vampire story begins by following a naive young Englishman as he visits Transylvania to meet a client, the mysterious Count Dracula. Upon revealing his true nature, Dracula boards a ship for England, where chilling and gruesome disasters begin to befall the people of London...",
+    "image_url": "../../hor/Dracula-1-1.png",
+    "filename": "Dracula.pdf",
+    "hash": "QmdjAciFCMDmwosoVvdHjUEXm3FzVwtUGsrceUTyvxymZy"
   },
   {
     "id": 13,
@@ -118,31 +118,20 @@
   },
   {
     "id": 14,
-    "name": "The Hound of the Baskervilles",
-    "price": "0.32",
-    "description":"This may be the most popular of all of the Sherlock Holmes stories. Inspired by regional mythology of the British Isles concerning hell-hounds, the tale tells of detective Sherlock Holmes and his assistant Dr. Watson as they are called to investigate an alleged curse upon the house of the Baskervilles.",
-    "image_url": "../../mys/The-Hound-of-the-Baskervilles-1-1.png",
-    "filename": "The-Hound-of-the-Baskervilles.pdf",
-    "hash": "QmcKdgnHRFJt4hWYK8NzDQnjQUJCRmKyUB9sf2uiBfB8eD"
+    "name": "At-the-Mountains-of-Madness",
+    "price": "0.33",
+    "description":"On an expedition to Antarctica, Professor William Dyer and his colleagues discover the remains of ancient half-vegetable, half-animal life-forms. The extremely early date in the geological strata is surprising because of the highly-evolved features found in these previously unkown life-forms. Through a series of dark revelations, violent episodes, and misunderstandings, the group learns of Earth's secret history and legacy.",
+    "image_url": "../../hor/The-Hound-of-the-Baskervilles-1-1.png",
+    "filename": "At-the-Mountains-of-Madness.pdf ",
+    "hash": "QmPiCQZJ5pKShiagvbJKSSJjDuNz4RkJL6N4Ja8Q1me75m"
   },
   {
     "id": 15,
-    "name": "The Hound of the Baskervilles",
-    "price": "0.32",
-    "description":"This may be the most popular of all of the Sherlock Holmes stories. Inspired by regional mythology of the British Isles concerning hell-hounds, the tale tells of detective Sherlock Holmes and his assistant Dr. Watson as they are called to investigate an alleged curse upon the house of the Baskervilles.",
-    "image_url": "../../mys/The-Hound-of-the-Baskervilles-1-1.png",
-    "filename": "The-Hound-of-the-Baskervilles.pdf",
-    "hash": "QmcKdgnHRFJt4hWYK8NzDQnjQUJCRmKyUB9sf2uiBfB8eD"
-  },
-  {
-    "id": 16,
     "name": "The-Best-Ghost-Stories",
     "price": "0.39",
     "description":"Introduction by Arthur B. ReeveThe Apparition of Mrs. VealCanon Alberic's Scrap-BookThe Haunted and the HauntersThe Silent WomanBansheesThe Man Who Went Too FarThe Woman's Ghost StoryThe Phantom RickshawThe Rival GhostsThe Damned ThingThe IntervalDey Ain't No GhostsSome Real American Ghosts",
-    "image_url": "../../mys/The-Best-Ghost-Stories-1-1.png",
+    "image_url": "../../hor/The-Best-Ghost-Stories-1-1.png",
     "filename": "The-Best-Ghost-Stories.pdf ",
     "hash": "QmUwnegckvHJ2dbnPhTvaHPErhpBQhigcFQ68qn5WZtMCQ"
   }
-
-
 ]
