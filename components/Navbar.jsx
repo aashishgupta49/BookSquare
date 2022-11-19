@@ -59,12 +59,13 @@ const Navbar = () => {
           <li className='p-4'>
             <Link href='/#gallery'>Upcomming Books</Link>
           </li>
-          <li className='p-4'>
+          {/* <li className='p-4'>
             <Link href='/work'>Latest</Link>
-          </li>
+          </li> */}
           <li className='p-4'>
             <Link href='/contact'>Contact</Link>
           </li>
+         
           <WalletMultiButton className="cta-button connect-wallet-button" />
         </ul>
 

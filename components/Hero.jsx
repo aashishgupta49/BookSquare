@@ -8,22 +8,23 @@ const Hero = ({heading, message}) => {
       {/* Overlay */}
       <div className='absolute top-0 left-0 right-0 bottom-0 bg-black/70 z-[2]' />
       <div className='p-5 text-white z-[2] mt-[-5rem]'>
-        <h1 className='text-5xl font-bold'>{heading}</h1>
+        <h1 className='text-7xl font-bold'>{heading}</h1>
         <br />
         {<h2>Smart &#124; Secure &#124; Simple</h2>}
         <p className='py-5 text-xl'>{message}</p>
        
          
         {/* <button className=''> */}
-        <button className="btn-17 px-8 py-2 border">
-          <span className="text-container">
-            <span className="text">
-        <Link href='/books_price'>
-          Book
-        </Link>
-        </span>
-          </span>
-        </button>
+        <button class="btn-17">
+  <span class="text-container">
+    <span class="text">
+      <Link href='books_price'>
+      Buy
+      </Link>
+      </span>
+  </span>
+</button>
+
           
       </div>
     </div>

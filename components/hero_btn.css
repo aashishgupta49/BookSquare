@@ -10,7 +10,7 @@
 .btn-17 {
   -webkit-tap-highlight-color: transparent;
   -webkit-appearance: button;
-  background-color: rgb(52, 52, 52);
+  background-color: #000;
   background-image: none;
   color: #fff;
   cursor: pointer;
@@ -95,14 +95,14 @@
   background: #fff;
   content: "";
   display: block;
-  height: 12%;
+  height: 102%;
   left: calc(-50% - 50% * var(--skew));
   pointer-events: none;
   position: absolute;
   top: -104%;
   transform: skew(calc(150deg * var(--skew))) translateY(var(--progress, 0));
   transition: transform 0.2s ease;
-  width: 10%;
+  width: 100%;
 }
 .btn-17:after {
   --progress: 0%;

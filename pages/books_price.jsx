@@ -1,5 +1,6 @@
 import React, { useState, useEffect} from "react";
 import Product from "../components/Product";
+import Hero from "../components/Hero"
 
 
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
@@ -16,12 +17,16 @@ const books_price = () => {
         });
     }
   }, [publicKey]);
-  return (
+  return (<>
+  <Hero heading='Scroll Down' message='download to enjoy your book instantly.' />
     <div className="products-container">
+      
       {products.map((product) => (
         <Product key={product.id} product={product} />
       ))}
     </div>
+    
+    </>
   )
 }
 
