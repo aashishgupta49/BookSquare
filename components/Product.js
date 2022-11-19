@@ -2,7 +2,7 @@ import React from "react";
 import styles from "../styles/Product.module.css";
 import IPFSDownload from './IpfsDownload';
 import Buy from "./Buy";
-export default function Product({ product }) {
+export default function Product({ produc9t }) {
   const { id, name, price, description, image_url } = product;
 
   return (
