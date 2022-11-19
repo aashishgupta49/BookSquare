@@ -95,14 +95,14 @@
   background: #fff;
   content: "";
   display: block;
-  height: 102%;
+  height: 12%;
   left: calc(-50% - 50% * var(--skew));
   pointer-events: none;
   position: absolute;
   top: -104%;
   transform: skew(calc(150deg * var(--skew))) translateY(var(--progress, 0));
   transition: transform 0.2s ease;
-  width: 100%;
+  width: 10%;
 }
 .btn-17:after {
   --progress: 0%;
