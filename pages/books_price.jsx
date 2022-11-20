@@ -1,6 +1,7 @@
 import React, { useState, useEffect} from "react";
 import Product from "../components/Product";
 import Hero from "../components/Hero"
+import Footer from "../components/footer";
 
 
 import { useConnection, useWallet } from "@solana/wallet-adapter-react";
@@ -25,6 +26,7 @@ const books_price = () => {
         <Product key={product.id} product={product} />
       ))}
     </div>
+    <Footer/>
     
     </>
   )

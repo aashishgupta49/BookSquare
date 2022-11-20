@@ -10,6 +10,9 @@ const Contact = () => {
                 <input className='border shadow-lg p-3' type="email" placeholder='Email' />
             </div>
             <input className='border shadow-lg p-3 w-full my-2' type="text" placeholder='Subject' />
+            <input className='border shadow-lg p-3 w-full my-2' type="text" placeholder='Address' />
+            <input className='border shadow-lg p-3 w-full my-2' type="number" placeholder='Pin' />
+            <input className='border shadow-lg p-3 w-full my-2' type="number" placeholder='Mobile no.' />
             <textarea className='border shadow-lg p-3 w-full' cols="30" rows="10" placeholder='Message'></textarea>
             <button className='border shadow-lg p-3 w-full mt-2'>Submit</button>
         </form>

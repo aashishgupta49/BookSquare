@@ -57,7 +57,7 @@ const Navbar = () => {
             <Link href='/'>Home</Link>
           </li>
           <li className='p-4'>
-            <Link href='/#gallery'>Upcomming Books</Link>
+            <Link href='/#gallery'>Upcoming Books</Link>
           </li>
           {/* <li className='p-4'>
             <Link href='/work'>Latest</Link>
